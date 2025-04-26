@@ -1,4 +1,5 @@
-# Discord Anti-Spam Research Tool
+# Discord Spammer Tools
+
 
 ## 📖 Description
 This tool is designed exclusively for studying methods of spam prevention and protection on the Discord platform. It is intended for testing and researching various approaches to building and improving anti-spam systems.
